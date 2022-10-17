@@ -1,0 +1,144 @@
+html {
+    display: flex;
+    background-color: teal;
+}
+body {
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: white;
+}
+p {
+    text-align: justify;
+    padding: 0 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+img {
+    padding: 30px 0;
+}
+a{
+    padding: 0 40px;
+    color:black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    background-color: teal;
+    color: black;
+}
+.titulos {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: text;
+    padding: 30px;
+    font-size: 15px;
+    color: teal;
+    font-size: oblique;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color:teal;
+}
+span {
+    color:black;
+}
+
+footer{
+    background-color: teal;
+    text-align: center;
+    display: flex;
+    padding-left: 230px;
+    bottom: 0 ;
+
+}
+
+.rodape {
+    color: black;
+    padding: 40px 0;
+    font-size: 22px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.imagemcurso {
+    width: 100px;
+}
+.descricao {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    text-align: center;
+    margin: 0 auto;
+}
+h3 {
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 0;
+    border: 0;
+    margin: 0 auto;
+    color: teal;
+}
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+}
+.tmensagem {
+}
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    width: 70px;
+    height: 30px;
+}
+.pMenu {
+    padding-bottom: 30px;
+}
+form {
+    padding-bottom: 30px;
+}
+button:hover {
+    background-color:teal;
+}
+textarea {
+    font-family: Arial, Helvetica, sans-serif;
+}
+text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+form { 
+    text-align: center;
+}m
+.pergunta {
+    padding-left: 50px;
+}
+.hr {
+    border: 0;
+    padding-top: 2em;
+}
+.insta {
+    padding-right: 1px;
+}
+text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.botao {
+    padding: 20px;
+}
+.mensagem {
+    display: inline-flex 30px;
+}
+.txt {
+    padding: 0 0 0 0;
+}
+.curso {
+    display: inline-flex;
+    float: left;
+}
+.conteudo {
+    padding: 50px 0 0 50px;
+}
